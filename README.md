@@ -6,3 +6,9 @@ Growth Mindset
 
 Avoid diving into rabbit holes. Be efficient
 
+BE OK with OK when you are first learning. Ofcourse you want things to be 
+perfect, however being a perfectionist is a direct route to burnout
+
+Learn how to write Unit Test
+
+Learn how to be ok with reading the boring stuff
